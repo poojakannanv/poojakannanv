@@ -50,6 +50,3 @@ I build production web applications end to end, from MongoDB schemas to deployed
 [![Email](https://img.shields.io/badge/Email-poojakannanv%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:poojakannanv@gmail.com)
 
 ---
-
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojakannanv&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojakannanv&layout=compact&hide_border=true)
