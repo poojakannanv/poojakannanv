@@ -37,12 +37,6 @@ I build production web applications end to end, from MongoDB schemas to deployed
 | [Large Text Analysis](https://github.com/poojakannanv/Large-text-analysis) | Systematic literature review tool aggregating academic search engines with bias-aware result surfacing (MSc project) | React, Python, NLP |
 | [Portfolio](https://poojakannanv.github.io) | My personal site, designed and built from scratch | HTML, CSS, JavaScript |
 
-## 💼 Background
-
-- **Waymade PLC** (UK pharma): internal React + TypeScript apps, Power BI data products used daily by 10+ department heads, Claude API regulatory drafting workflow deployed to the regulatory team
-- **Blackmont Consulting**: Head of Project Success, leading delivery quality across a global consulting division
-- **Nuvepro Technologies**: owned the Lab Administrator Portal end to end (React, Node, MongoDB, Docker, AWS EC2), serving 600+ users; mentored 2 junior developers
-
 ## 📫 Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-poojakannanv.github.io-0f172a)](https://poojakannanv.github.io)
