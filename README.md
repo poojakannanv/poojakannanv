@@ -8,9 +8,9 @@ I build production web applications end to end, from MongoDB schemas to deployed
 
 ## 🔭 What I'm working on
 
-- 🏥 **MedDossier** - full-stack medical records platform (React, Node.js, Express, MongoDB, JWT auth, Docker, CI)
-- 💷 **MoneyMate AI** - conversational personal finance app (Next.js + Claude API)
 - ☁️ **AWS Certified Solutions Architect – Associate** (in progress)
+- 🤖 Next for [MedDossier](https://github.com/poojakannanv/med-dossier): AI module review extension (ICH section detection with an LLM)
+- 🏦 Next for [MoneyMate AI](https://github.com/poojakannanv/money-mate-ai): Open Banking in place of CSV upload
 
 ## 🛠️ Tech stack
 
@@ -32,10 +32,18 @@ I build production web applications end to end, from MongoDB schemas to deployed
 
 | Project | What it is | Stack |
 |---|---|---|
-| [GitHub Profile Analyzer](https://github.com/poojakannanv/github-profile-analyzer) | AI-powered GitHub profile analyzer built for the UK job market: visa sponsor matching, grad scheme fit, salary bands | Next.js 14, TypeScript, Tailwind, LLM APIs |
-| [HealthSync Scheduler](https://github.com/poojakannanv/HealthSync-Scheduler) | Serverless telehealth appointment platform with automated patient notifications (MSc project) | React, AWS Lambda, DynamoDB, SES/SNS |
-| [Large Text Analysis](https://github.com/poojakannanv/Large-text-analysis) | Systematic literature review tool aggregating academic search engines with bias-aware result surfacing (MSc project) | React, Python, NLP |
+| [MedDossier](https://github.com/poojakannanv/med-dossier) · [live demo](https://med-dossier.vercel.app/) | Regulatory submission tracker for pharma teams: RBAC, CTD module workflow, document versioning, audit trail, PDF export | MERN, JWT, Jest, node-cron |
+| [MoneyMate AI](https://github.com/poojakannanv/money-mate-ai) · [live demo](https://money-mate-ai-indol.vercel.app/) | AI personal finance co-pilot for UK households: statement upload, Claude-powered categorisation, grounded chat over your own data | Next.js 14, TypeScript, Claude API, Drizzle, Supabase |
+| [GitHub Profile Analyzer](https://github.com/poojakannanv/github-profile-analyzer) · [live demo](https://github-profile-analyzer-blush.vercel.app/) | AI-powered GitHub profile analyzer built for the UK job market: visa sponsor matching, grad scheme fit, salary bands | Next.js 14, TypeScript, Tailwind, LLM APIs |
+| [HealthSync Scheduler](https://github.com/poojakannanv/healthsync-scheduler) | Serverless telehealth appointment platform with automated patient notifications (MSc project) | React, AWS Lambda, DynamoDB, SES/SNS |
+| [Large Text Analysis](https://github.com/poojakannanv/large-text-analysis) | Systematic literature review tool aggregating academic search engines with bias-aware result surfacing (MSc project) | React, Python, NLP |
 | [Portfolio](https://poojakannanv.github.io) | My personal site, designed and built from scratch | HTML, CSS, JavaScript |
+
+## 💼 Background
+
+- **Waymade PLC** (UK pharma): internal React + TypeScript apps, Power BI data products used daily by 10+ department heads, Claude API regulatory drafting workflow deployed to the regulatory team
+- **Blackmont Consulting** (2026): Head of Project Success, led delivery quality across a global consulting division
+- **Nuvepro Technologies**: owned the Lab Administrator Portal end to end (React, Node, MongoDB, Docker, AWS EC2), serving 600+ users; mentored 2 junior developers
 
 ## 📫 Get in touch
 
